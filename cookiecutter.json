@@ -1,0 +1,11 @@
+{
+  "namespace": "batlock666",
+  "subpackage": "",
+  "package": "{{ cookiecutter.namespace }}.{{ cookiecutter.subpackage }}",
+  "version": "0.1.0",
+  "description": "Package {{ cookiecutter.package }}.",
+  "author": "Bert Vanderbauwhede",
+  "author_email": "batlock666@gmail.com",
+  "github_username": "{{ cookiecutter.namespace }}",
+  "github_url": "https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.package }}"
+}
